@@ -90,7 +90,7 @@ In the digital age, video content consumption has surged, creating a need for ef
   
 
 3. **Translation and Download**
-   [view image](./images/translate_and_download.jpg)
+   [view image](./images/translate&download.jpg)
    
 
 ### Dynamic Summarization
