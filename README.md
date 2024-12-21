@@ -81,22 +81,22 @@ In the digital age, video content consumption has surged, creating a need for ef
 
 ### Static Summarization
 
-1. **Homa Page:**
-   ![Input Video URL Example](./images/input_video_example.png)
+1. **Home Page:**
+   [view image](./images/homepage.jpg)
    
 
 2. **Static Summary:**
-   ![Translated Summary Example](./images/translated_summary_example.png)
+   [view image](./images/static.jpg)
   
 
 3. **Translation and Download**
-   ![Download Button Example](./images/download_button_example.png)
+   [view image](./images/translate_and_download.jpg)
    
 
 ### Dynamic Summarization
 
 1. **Dynamic Summary:**
-   ![Time-Specific Input Example](./images/time_specific_input_example.png)
+   [view image](./images/dyanamic.jpg)
 
 ## License
 
