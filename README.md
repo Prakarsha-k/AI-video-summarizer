@@ -1,4 +1,4 @@
-# Real-Time AI Video Summarization and Multi-Language Translation for Efficient Viewing 
+# Real-Time AI Video Summarization and Multi-Language Translation
 
 ## Introduction
 
